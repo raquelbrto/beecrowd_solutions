@@ -1,1 +1,1 @@
-# beecrowd_solutions
+# beecrowd solutions
